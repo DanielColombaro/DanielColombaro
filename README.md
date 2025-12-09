@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielColombaro
-- 👀 I’m interested in AI, NLP and LLM
-- 🌱 I’m currently learning Oracle Cloud Platform
+- 👀 I’m interested in AI, sci-fi and space exploration
+- 🌱 I’m currently learning ML-Ops and MCP protocol
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me www.linkedin.com/in/daniel-colombaro-a219a2224
 - ⚡ Fun fact: Ping pong and hiking enthusiast 
